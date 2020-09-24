@@ -1,2 +1,2 @@
 # print igor.
-HORA_IGOR = '06:43'
+HORA_IGOR = '06:47'
